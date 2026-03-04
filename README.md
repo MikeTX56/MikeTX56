@@ -1,5 +1,4 @@
 ## Hi there i'm Mike
-# Mike T
 
 Electronics & Communication Engineering student  
 Focused on Machine Learning, Data Science, and AI  
